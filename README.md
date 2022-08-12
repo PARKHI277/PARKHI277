@@ -1,10 +1,8 @@
-h1 align="center">Hi 👋, I'm Parkhi Garg</h1>
+<h1 align="center">Hi 👋, I'm Parkhi Garg</h1>
 <h3 align="center">A passionate Backend Developer</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/d5939be13ea1f3e40add7384af73ea92.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parkhi277&label=Profile%20views&color=0e75b6&style=flat" alt="parkhi277" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parkhi277" alt="parkhi277" /></a> </p>
 
 - 🔭 I’m currently working on [E-HUB-Backend](https://github.com/PARKHI277/E-HUB-Backend)
 
