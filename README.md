@@ -49,13 +49,4 @@
   </tr>
 </table>
   
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parkhi277&show_icons=true&locale=en&layout=compact" alt="parkhi277" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parkhi277&show_icons=true&locale=en" alt="parkhi277" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parkhi277&" alt="parkhi277" /></p>
 
