@@ -37,3 +37,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parkhi277&show_icons=true&locale=en" alt="parkhi277" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parkhi277&" alt="parkhi277" /></p>
+
+# 📈 Productivity Stats:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PARKHI277&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=PARKHI277&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
