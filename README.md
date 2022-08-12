@@ -15,9 +15,10 @@
 - 📫 How to reach me **parkhigarg277@gmail.com**
 
 ### Blogs posts
+<h2> ✒️ &nbspBlog:</h2>  
+ <a href="https://medium.com/@parkhigarg277/backend-development-51863dec21e5"><img align="center" src="https://user-images.githubusercontent.com/93239528/180376651-6ea31cc1-1cc7-4c3e-b094-287c557e8489.png" alt="Backend Development" height="48" width="45" />   Dive into Backend development</a> 
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
