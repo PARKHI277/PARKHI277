@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Node.js , Express.js , MongoDB , Postman , C and C++ Language**
 
-- 📫 How to reach me **parkhigarg277@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/parkhi-garg-39270a202/**
 
 
 <h2> ✒️ &nbspBlog:</h2>  
