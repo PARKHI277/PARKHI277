@@ -3,17 +3,15 @@
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/d5939be13ea1f3e40add7384af73ea92.gif">
 
 
-
-- 🔭 I’m currently working on [E-HUB-Backend](https://github.com/PARKHI277/E-HUB-Backend)
-
-- 🌱 I’m currently learning **Competitive Programming**
-
-- 👯 I’m looking to collaborate on **Mern Stack Projects**
-
 - 💬 Ask me about **Node.js , Express.js , MongoDB , Postman , C and C++ Language**
 
 - 📫 How to reach me **https://www.linkedin.com/in/parkhi-garg-39270a202/**
 
+<h2> 📍 &nbsp;Visitor's Count:</h2>
+<a align="center" href="https://profile-counter.glitch.me/{PARKHI277}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{shubhi182001}/count.svg)  
+</a>
 
 <h2> ✒️ &nbspBlog:</h2>  
  <a href="https://medium.com/@parkhigarg277/backend-development-51863dec21e5"><img align="center" src="https://miro.medium.com/max/1050/0*yzgyhxxWqYEF35K5" alt="Backend Development" height="48" width="45" />   Dive into Backend development</a> 
