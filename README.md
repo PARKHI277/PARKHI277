@@ -10,7 +10,7 @@
 <h2> 📍 &nbsp;Visitor's Count:</h2>
 <a align="center" href="https://profile-counter.glitch.me/{PARKHI277}/count.svg">
   
-  ![VisitorCount](https://profile-counter.glitch.me/{shubhi182001}/count.svg)  
+  ![VisitorCount](https://profile-counter.glitch.me/{PARKHI277}/count.svg)  
 </a>
 
 <h2> ✒️ &nbspBlog:</h2>  
