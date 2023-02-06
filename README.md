@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parkhi Garg</h1>
 <h3 align="center">A passionate Developer</h3>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=MERN Developer;NodeJS Developer;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=228C22&center=true&vCenter=true&width=440&height=45&lines=MERN Developer;NodeJS Developer;" alt="Typing SVG" /></a>
 </p>
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/d5939be13ea1f3e40add7384af73ea92.gif">
 
