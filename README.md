@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **[https://www.linkedin.com/in/parkhi-garg-39270a202/](https://www.linkedin.com/in/parkhi-garg-39270a202/)**
 
-- Solved 300+ Data Structures And Algorithms Problems **https://linktr.ee/parkhigarg**
+- Solved 300+ Data Structures And Algorithms Problems **https://linktr.ee/parkhilinks**
 
 
 
