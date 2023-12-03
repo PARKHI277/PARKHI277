@@ -6,7 +6,7 @@
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/d5939be13ea1f3e40add7384af73ea92.gif">
 
 
-- 💬 Ask me about **Node.js , Express.js , MongoDB , Postman , ReactJS, Sanity, Hasura, GraphQL, C and C++ Language**
+- 💬 Ask me about **Node.js , Express.js , MongoDB , Postman , TypeScript , SQL , ReactJS, C and C++ Language**
 
 - 📫 How to reach me **[https://www.linkedin.com/in/parkhi-garg-39270a202/](https://www.linkedin.com/in/parkhi-garg-39270a202/)**
 
