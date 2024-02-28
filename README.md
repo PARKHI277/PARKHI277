@@ -21,7 +21,7 @@
 </a>
 
 <h2> ✒️ &nbspBlog:</h2>  
- <a href="https://medium.com/@parkhigarg277/backend-development-51863dec21e5"><img align="center" src="https://miro.medium.com/max/1050/0*yzgyhxxWqYEF35K5" alt="Backend Development" height="48" width="45" />   Dive into Backend development</a> 
+ <a href="https://medium.com/@parkhigarg277/backend-development-51863dec21e5">Dive into Backend development</a> 
  <br>
   <a href="https://medium.com/@parkhigarg277/getting-started-with-aws-cloudwatch-logs-in-node-js-1f614376a788">AWS Cloud watch logs in NodeJs</a> 
   <br>
