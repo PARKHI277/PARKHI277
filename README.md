@@ -6,7 +6,7 @@
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/d5939be13ea1f3e40add7384af73ea92.gif">
 
 
-- 💬 Ask me about **Node.js , Express.js , MongoDB , Postman , TypeScript , SQL , ReactJS, C and C++ Language**
+- 💬 Ask me about **Node.js, Express.js , MongoDB, Postman , TypeScript, SQL , ReactJS, C and C++ Language**
 
 - 📫 How to reach me **[https://www.linkedin.com/in/parkhi-garg-39270a202/](https://www.linkedin.com/in/parkhi-garg-39270a202/)**
 
@@ -22,6 +22,10 @@
 
 <h2> ✒️ &nbspBlog:</h2>  
  <a href="https://medium.com/@parkhigarg277/backend-development-51863dec21e5"><img align="center" src="https://miro.medium.com/max/1050/0*yzgyhxxWqYEF35K5" alt="Backend Development" height="48" width="45" />   Dive into Backend development</a> 
+  <a href="https://medium.com/@parkhigarg277/getting-started-with-aws-cloudwatch-logs-in-node-js-1f614376a788">AWS Cloud watch logs in NodeJs</a> 
+   <a href="https://medium.com/@parkhigarg277/razorpay-webhook-implementation-in-nodejs-9f622980afc1">RazorPay Webhook Implementation</a> 
+  
+
 
 
 
