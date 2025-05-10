@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Parkhi Garg</h1>
+<h1 align="center">Hi👋, I'm Parkhi</h1>
 <h3 align="center">A passionate Developer</h3>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=228C22&center=true&vCenter=true&width=440&height=45&lines=MERN Developer;NodeJS Developer;" alt="Typing SVG" /></a>
-</p>
 
-
+# 🚀About Me:
 
 - 💬 Ask me about **Node.js, Express.js , MongoDB, Postman , TypeScript, SQL , ReactJS, C and C++ Language**
 
