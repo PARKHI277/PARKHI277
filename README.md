@@ -5,24 +5,63 @@
 </a>
 
 
-# 🚀About Me:
+## 🚀About Me:
 I’m a backend-focused Software Engineer who loves tackling complex problems and designing systems that scale seamlessly. Currently, I work at Accenture as a data engineer specializing in databricks, drawing on my experience in building robust, high-performance backend architectures. I bring deep expertise in Node.js, AWS, MongoDB, React, JavaScript, and TypeScript — always approaching projects with a systems-first mindset. Let’s create something meaningful and built to last.
 
-- 💬 Ask me about **Node.js, Express.js , MongoDB, Postman , TypeScript, SQL , ReactJS, C and C++ Language**
 
-- 📫 How to reach me **[https://www.linkedin.com/in/parkhi-garg-39270a202/](https://www.linkedin.com/in/parkhi-garg-39270a202/)**
+## 🛠️ Technologies & Tools:
+<p>
+ <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/-Databricks-EF3E42?style=flat&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white" />
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Databricks-EF3E42?style=flat&logo=databricks&logoColor=white" />
 
-- Solved 300+ Data Structures And Algorithms Problems **https://linktr.ee/parkhilinks**
+</p>
 
+## 📊 GitHub At A Glance:
 
+<table>
+<tr>
+<td>
 
-<h2> 📍 &nbsp;Visitor's Count:</h2>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARKHI277&layout=compact&theme=tokyonight)
+
+</td>
+<td>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKHI277&show_icons=true&theme=tokyonight)
+
+</td>
+
+<td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=parkhi277&theme=tokyonight" alt="GitHub streak" />
+    </td>
+</tr>
+</table>
+
+## 📍Visitor's Count:
 <a align="center" href="https://profile-counter.glitch.me/{PARKHI277}/count.svg">
   
   ![VisitorCount](https://profile-counter.glitch.me/{PARKHI277}/count.svg)  
 </a>
 
-<h2> ✒️ &nbspBlog:</h2>  
+## ✒️Blogs: 
  <a href="https://medium.com/@parkhigarg277/backend-development-51863dec21e5">Dive into Backend development</a> 
  <br>
   <a href="https://medium.com/@parkhigarg277/getting-started-with-aws-cloudwatch-logs-in-node-js-1f614376a788">AWS Cloud watch logs in NodeJs</a> 
@@ -33,39 +72,15 @@ I’m a backend-focused Software Engineer who loves tackling complex problems an
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/parkhi-garg-39270a202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parkhi-garg-39270a202/" height="30" width="40" /></a>
-<a href="https://instagram.com/_parkhigarg_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_parkhigarg_" height="30" width="40" /></a>
-<a href="https://medium.com/@parkhigarg277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@parkhigarg277" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/coder_parkhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="coder_parkhi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/parkhi531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parkhi266" height="30" width="40" /></a>
-<a href="/https://medium.com/@parkhigarg277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/@parkhigarg277" height="30" width="40" /></a>
-</p>
+## Connect with me:
+
+<p> </a> <a href="mailto:parkhigargg277@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://www.linkedin.com/in/parkhi-garg-39270a202/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://leetcode.com/parkhi531/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /> </a> <a href="https://medium.com/@parkhigarg277" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /> </a>
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sanity.io/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/252413723/e6f28180-8882-11ea-9e76-78d72dfa2af0" alt="sanity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parkhi277&show_icons=true&locale=en&layout=compact" alt="parkhi277" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parkhi277&show_icons=true&locale=en" alt="parkhi277" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parkhi277&" alt="parkhi277" /></p>
 
-# 📈 Productivity Stats:
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PARKHI277&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
-   </tr> 
-   <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=PARKHI277&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
-  </td>
-  </tr
-</table>
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
   
 
