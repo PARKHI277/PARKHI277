@@ -1,5 +1,9 @@
-<h1 align="center">Hi👋, I'm Parkhi</h1>
-<h3 align="center">A passionate Developer</h3>
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" />
+
+<a href="https://www.linkedin.com/in/parkhi-garg-39270a202/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" />
+</a>
+
 
 # 🚀About Me:
 I’m a backend-focused Software Engineer who loves tackling complex problems and designing systems that scale seamlessly. Currently, I work at Accenture as a data engineer specializing in databricks, drawing on my experience in building robust, high-performance backend architectures. I bring deep expertise in Node.js, AWS, MongoDB, React, JavaScript, and TypeScript — always approaching projects with a systems-first mindset. Let’s create something meaningful and built to last.
