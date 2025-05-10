@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Developer</h3>
 
 # 🚀About Me:
+I’m a backend-focused Software Engineer who loves tackling complex problems and designing systems that scale seamlessly. Currently, I work at Accenture as a data engineer specializing in databricks, drawing on my experience in building robust, high-performance backend architectures. I bring deep expertise in Node.js, AWS, MongoDB, React, JavaScript, and TypeScript — always approaching projects with a systems-first mindset. Let’s create something meaningful and built to last.
 
 - 💬 Ask me about **Node.js, Express.js , MongoDB, Postman , TypeScript, SQL , ReactJS, C and C++ Language**
 
